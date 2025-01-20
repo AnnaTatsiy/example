@@ -7,6 +7,6 @@ class Helper
     //
     public function __construct()
     {
-        echo "hello Helper";
+        echo "hello Helper 111";
     }
 }
