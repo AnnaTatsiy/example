@@ -1,10 +1,10 @@
 {
-    "name": "anna/first_test_example_package",
+    "name": "anna_tatsiy/first_test_example_package",
     "description": "no",
     "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
-            "Anna\\FirstTestExamplePackage\\": "src/"
+            "AnnaTatsiy\\FirstTestExamplePackage\\": "src/"
         }
     },
     "authors": [

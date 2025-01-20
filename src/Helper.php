@@ -1,6 +1,6 @@
 <?php
 
-namespace Anna\FirstTestExamplePackage;
+namespace AnnaTatsiy\FirstTestExamplePackage;
 
 class Helper
 {
